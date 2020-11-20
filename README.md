@@ -11,3 +11,5 @@ Open Source Software:
 |----------|----------|--------|----------|
 | Password Manager | [Bitwarden](https://bitwarden.com/) | [Github](https://github.com/bitwarden) | - |
 | Reference Manager | [Zotero](https://www.zotero.org/) | [Github](https://github.com/zotero/zotero) | [WebDAV Support](https://www.zotero.org/support/kb/webdav_services), best with free EU server storage at [pCloud](https://www.pcloud.com/eu) |
+
+Zotero sub-folder behaviour: https://forums.zotero.org/discussion/68833/sources-in-sub-folders-not-showing-up-in-higher-level-folders
