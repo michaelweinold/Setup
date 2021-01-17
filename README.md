@@ -5,6 +5,12 @@ Installing Asus Utility software for Asus X570 WS Pro:
 
 The online product site does not list the required software. Instead, [look for another X570 motherboard](https://www.asus.com/Motherboards-Components/Motherboards/All-series/filter?Category=AMD&Spec=560) and download the Armoury Crate software from one of the product sites. Then from the Armoury Crate, install [AI Suite 3](https://www.asus.com/support/FAQ/1012780/).
 
+## Github
+
+Setting up Github on MacOS terminal:
+    1. [Use https to connect to Github](https://docs.github.com/en/github/getting-started-with-github/set-up-git)
+    2. [Cache credentials using MacOS Keychain](https://docs.github.com/en/github/using-git/caching-your-github-credentials-in-git)
+
 Open Source Software:
 
 | Category | Software | Github | Comments |
